@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <id>101</id>
+    <name>Anita Rao</name>
+    <designation>Software Engineer</designation>
+    <department>Engineering</department>
+    <salary>85000</salary>
+    <city>Bengaluru</city>
+  </employee>
+  <employee>
+    <id>102</id>
+    <name>Rahul Mehta</name>
+    <designation>Project Manager</designation>
+    <department>Operations</department>
+    <salary>120000</salary>
+    <city>Mumbai</city>
+  </employee>
+  <employee>
+    <id>103</id>
+    <name>Sneha Iyer</name>
+    <designation>UI Designer</designation>
+    <department>Design</department>
+    <salary>72000</salary>
+    <city>Chennai</city>
+  </employee>
+  <employee>
+    <id>104</id>
+    <name>Karan Singh</name>
+    <designation>HR Executive</designation>
+    <department>Human Resources</department>
+    <salary>58000</salary>
+    <city>Delhi</city>
+  </employee>
+  <employee>
+    <id>105</id>
+    <name>Divya Nair</name>
+    <designation>Data Analyst</designation>
+    <department>Analytics</department>
+    <salary>78000</salary>
+    <city>Kochi</city>
+  </employee>
+</employees>
